@@ -1,0 +1,40 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    background-color: crimson;
+    
+    color: ;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 2em;
+
+}
+body {
+    
+    background-color: beige; 
+    background-size:cover;
+    height:100vh;
+}
+
+li {
+   color:
+    
+}
+
+
+header {
+    color: #F5BB00;
+    font-size: 2.2em;
+}
+header2{
+font-size: 2.2em;
+}
+header3{
+    font-size: 2em;
+}
